@@ -1,5 +1,5 @@
 [project]
-name = "twcal"
+name = "twdate"
 version = "1.0.0"
 description = "A simple package to convert between the Gregorian calendar and the Taiwanese calendar."
 authors = [{ name = "Anthony Sung", email = "sungpinyue@gmail.com" }]
