@@ -8,6 +8,9 @@ readme = "README.md"
 requires-python = ">=3.10"
 dependencies = []
 
+[tool.poetry]
+packages = [{include = "twcal", from = "src"}]
+
 
 [tool.black]
 line-length = 88
