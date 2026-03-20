@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/Python-%3E%3D3.10-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
 
-[中文版](README_zh-TW.md)
+[中文版](https://github.com/yueswater/twcal/blob/main/README_zh-TW.md)
 
 A simple Python package to convert between the Gregorian calendar and the Taiwanese (Minguo) calendar.
 

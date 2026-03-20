@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/Python-%3E%3D3.10-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
 
-[English](README.md)
+[English](https://github.com/yueswater/twcal/blob/main/README.md)
 
 一個簡單的 Python 套件，用於格里曆（西曆）與臺灣民國曆之間的轉換。
 
