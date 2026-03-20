@@ -34,9 +34,7 @@ class TWDate:
             return MINGUO_BEFORE_DATE_FORMAT.format(
                 year=abs(self.year), month=self.month, day=self.day
             )
-        return MINGUO_DATE_FORMAT.format(
-            year=self.year, month=self.month, day=self.day
-        )
+        return MINGUO_DATE_FORMAT.format(year=self.year, month=self.month, day=self.day)
 
     def to_short_string(self) -> str:
         """Return the date as a compact numeric string, e.g. '1150320'."""
