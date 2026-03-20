@@ -1,3 +1,5 @@
+"""Conversion functions between Gregorian and Minguo calendar."""
+
 import datetime
 
 from twcal.constants import MINGUO_OFFSET

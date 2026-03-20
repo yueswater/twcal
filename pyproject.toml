@@ -1,12 +1,15 @@
 [project]
 name = "twdate"
-version = "1.0.1"
+version = "1.1.0"
 description = "A simple package to convert between the Gregorian calendar and the Taiwanese calendar."
 authors = [{ name = "Anthony Sung", email = "sungpinyue@gmail.com" }]
 license = { text = "MIT" }
 readme = "README.md"
 requires-python = ">=3.10"
-dependencies = []
+dependencies = ["click (>=8.3.1,<9.0.0)"]
+
+[project.scripts]
+twdate = "twcal.cli:main"
 
 [tool.poetry]
 packages = [{include = "twcal", from = "src"}]

@@ -76,6 +76,19 @@ d = to_minguo(datetime.date(1911, 1, 1))
 print(d)  # 民國前1年1月1日
 ```
 
+### CLI
+
+```bash
+# 顯示今天的民國日期
+twdate now
+
+# 格里曆轉民國
+twdate convert 2026-03-20
+
+# 民國轉格里曆
+twdate convert -g 115-03-20
+```
+
 ### 比較
 
 ```python

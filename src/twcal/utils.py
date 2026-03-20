@@ -1,3 +1,5 @@
+"""Utility functions for Minguo date validation."""
+
 import datetime
 
 

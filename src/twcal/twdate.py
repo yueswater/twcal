@@ -1,3 +1,5 @@
+"""Data class for representing a Minguo (ROC) calendar date."""
+
 from dataclasses import dataclass
 
 from twcal.constants import MINGUO_BEFORE_DATE_FORMAT, MINGUO_DATE_FORMAT
