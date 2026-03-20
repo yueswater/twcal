@@ -1,4 +1,4 @@
-"""twcal - Convert between the Gregorian calendar and the Taiwanese (Minguo) calendar."""
+"""Convert between Gregorian and Taiwanese (Minguo) calendar."""
 
 from twcal.convert import to_gregorian, to_minguo, today
 from twcal.twdate import TWDate

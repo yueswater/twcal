@@ -1,8 +1,6 @@
 import datetime
 from unittest.mock import patch
 
-import pytest
-
 from twcal.convert import to_gregorian, to_minguo, today
 from twcal.twdate import TWDate
 
