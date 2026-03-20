@@ -1,4 +1,4 @@
-# twcal
+# twdate
 
 <img src="https://img.shields.io/badge/Python-%3E%3D3.10-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
@@ -10,7 +10,7 @@ A simple Python package to convert between the Gregorian calendar and the Taiwan
 ## Installation
 
 ```bash
-pip install twcal
+pip install twdate
 ```
 
 ## Usage
